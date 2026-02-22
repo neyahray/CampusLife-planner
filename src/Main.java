@@ -176,6 +176,3 @@ class StudySession {
         return "StudySession {course = '" + course.getName() + "', minutes = '" + minutes + "'}";
     }
 }
-
-
-//class CampusLi
